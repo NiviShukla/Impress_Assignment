@@ -1,4 +1,5 @@
-# Impress_Assignment
+# Resume-Builder
+
 
 ## Description
 The Resume Builder React App is a web application designed to help users create and customize professional resumes. It provides an intuitive interface for entering personal information, educational background, work experience, skills, and other relevant details. The app allows users to generate a downloadable PDF version of their resume and also provides the option to edit and update the information as needed.
