@@ -16,7 +16,7 @@ The Resume Builder React App is a web application designed to help users create 
 
 ## Installation
 1. Clone the repository:
-```git clone https://github.com/NiviShukla/.git```
+```git clone https://github.com/NiviShukla/Impress_Assignment.git.git```
 2. Navigate to the project directory:
 ```cd resume-builder```
 3. Install the dependencies:
